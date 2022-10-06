@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="DataGridView/src/main/res/drawable/cell_shape_blue.xml" value="0.1975" />
+        <entry key="DataGridView/src/main/res/drawable/ic_numerical_sorting_1.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ab_solid_shadow_holo_flipped.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/cell_shape_blue.xml" value="0.3185" />
+        <entry key="app/src/main/res/drawable/cell_shape_square_blue.xml" value="0.3185" />
+        <entry key="app/src/main/res/drawable/cell_shape_white.xml" value="0.3185" />
+        <entry key="app/src/main/res/drawable/ic_arrow_drop_down_black_24dp.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_arrow_drop_up_black_24dp.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_numerical_sorting_1.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_numerical_sorting_2.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_numerical_sorting_one.xml" value="0.1975" />
+        <entry key="app/src/main/res/drawable/ic_sort_by_alpha_black.xml" value="0.1975" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20621931260229132" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.5234375" />
+        <entry key="app/src/main/res/layout/sample_data_grid_view.xml" value="0.5098958333333333" />
+        <entry key="app/src/main/res/layout/sample_my_view.xml" value="0.5796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
